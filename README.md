@@ -5,7 +5,7 @@
 Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like 
 keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
 
-****How to run code:****
+****How to run the code:****
 
 Step1:Save the HTML file with a .html extension.
 
